@@ -1,8 +1,8 @@
-baseURL = "https://stalwart-zuccutto-0b0cb9.netlify.app/"
+baseURL = "https://tieli.me/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Cindy Huang"
-author = "Alison Hill"
+title = "Tieli Huang"
+author = "Cindy Huang"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 #disqusShortname = "" # see params.comments to use utterances or giscus instead of Disqus
@@ -33,7 +33,7 @@ enableEmoji = true
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  # logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -154,16 +154,6 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
   [[menu.header]]
     name = "Elements"
     title = "Element Page"

@@ -1,13 +1,9 @@
 ---
-title: Hello World
+title: Hello Netlify
 author: Package Build
 date: '2025-08-31'
 slug: []
 categories: []
 tags: []
 ---
-
-
-
-
-Hello world! This is my first blog post 🚀
+Hello world!
